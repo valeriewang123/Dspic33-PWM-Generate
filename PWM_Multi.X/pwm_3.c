@@ -2,11 +2,8 @@
   Code example to generate Pulse Width Modulation(PWM signal) 
   using Output Compare module and Timer module.
 
-  Author: Xiaoyu Wang
-  
-  Time: 15/11/2019
+  Author: valerie Wang
  
-  NOTE: FOR PROJECT UNICARagil(173124) IN IKA.
 
   File Name:
     PWM_GEN.c

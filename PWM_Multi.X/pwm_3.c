@@ -2,7 +2,7 @@
   Code example to generate Pulse Width Modulation(PWM signal) 
   using Output Compare module and Timer module.
 
-  Author: valerie Wang
+  Author: Xiaoyu Wang
  
 
   File Name:

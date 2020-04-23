@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<project>
+  <executable name="dist/default/debug/PWM_1OUT.X.debug.elf">
+    <memory name="data">
+      <units>bytes</units>
+      <length>49152</length>
+      <used>80</used>
+      <free>49072</free>
+    </memory>
+    <memory name="program">
+      <units>bytes</units>
+      <length>524514</length>
+      <used>621</used>
+      <free>523893</free>
+    </memory>
+  </executable>
+</project>

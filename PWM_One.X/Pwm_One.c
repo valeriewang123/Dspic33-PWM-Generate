@@ -3,10 +3,7 @@
   using Output Compare module and Timer module.
 
   Author: Xiaoyu Wang
- 
-  Time: 15/11/2019
 
-  NOTE: FOR PROJECT UNICARagil(173124) IN IKA.
 
   File Name:
     PWM_GEN.c
